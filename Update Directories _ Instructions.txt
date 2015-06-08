@@ -1,0 +1,12 @@
+\\hou-data\proj\16-Energy Transfer\Projects\330111 - BEE Line Pipeline Project\Facility\Engineering\BOM\Master_Material_List
+\\hou-data\proj\02-GULF SOUTH\326481_PN3867 - Kentucky Utilities - Cane Run Interconnect\Facility\Engineering\BOM\Master_Material_List
+
+
+ - Copy "blank" BOM into SAME directory as existing BOM.
+ - Open "blank" version (the newer version)
+ - Click "Import Previous BOM"
+ - Select your existing BOM.
+ - When the BOM is finished importing, save & close.
+ - Delete your old version, or move to an Obselete folder.
+ - Rename the new BOM to what you like.
+ - Done.
